@@ -1,0 +1,33 @@
+body {
+    margin: 0;
+}
+
+a {
+    color: #132;
+    text-decoration: none;
+}
+
+nav {
+    float: right;
+    margin-right: 15px;
+}
+
+nav li {
+    display: inline-block;
+    margin-right: 10px;
+}
+
+.logo {
+    width: 200px;
+    height: 50px;
+    overflow: hidden;
+    background-image: url(../images/car.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    float: left;
+}
+
+.col-moitie {
+    width: 50%;
+    float: left;
+}
